@@ -1,1 +1,1 @@
-Created 0x03-git directory
+my first project readme file
